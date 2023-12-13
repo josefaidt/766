@@ -1,0 +1,8 @@
+# amplify
+node_modules
+.amplify
+amplifyconfiguration*
+
+.env*
+.next
+next-env.d.ts
